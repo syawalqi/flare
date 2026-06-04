@@ -65,7 +65,8 @@ flare daemon
 ## Screenshots
 
 <!-- TODO: Add TUI screenshot -->
-<!-- ![FLARE Chat TUI](screenshots/chat.png) -->
+<img width="951" height="453" alt="image" src="https://github.com/user-attachments/assets/eaa42254-f745-4fce-ab4f-f12a22188537" />
+
 <!-- ![FLARE Daemon](screenshots/daemon.png) -->
 
 ## Usage
